@@ -1,5 +1,4 @@
 - 👋 Hi, I’m GOPIKA
-- 🌱 I’m currently exploring the world of CS
 - 📫 How to reach me pgopika8299@gmail.com
 
 <!---
